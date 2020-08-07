@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"git.ignoreLimitWarning": true,
-		"python.pythonPath": "ats_env\\Scripts\\python.exe"
+		"python.pythonPath": "ats_env\\Scripts\\python.exe",
+		"AREPL.pythonPath": "ats_env\\Scripts\\python.exe"
 	}
 }
